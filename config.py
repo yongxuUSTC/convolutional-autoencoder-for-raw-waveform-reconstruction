@@ -1,11 +1,4 @@
-'''
-SUMMARY:  config file
-AUTHOR:   Qiuqiang Kong
-Created:  2016.06.23
-Modified: 
---------------------------------------
-'''
-
+ 
 # development
 dev_root = '/vol/vssp/msos/yx/chime_home/chunk_annotations'
 dev_wav_fd = dev_root + '/annotations'

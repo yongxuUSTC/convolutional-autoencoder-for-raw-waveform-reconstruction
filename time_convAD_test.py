@@ -1,13 +1,4 @@
-'''
-SUMMARY:  Load trained model and Evaluate on test dataset
-Usage:    * fold, fe_fd, agg_num should be same as train procedure
-          * model to load should be specified
-AUTHOR:   Qiuqiang Kong
-Created:  2016.05.25
-AUTHOR: YONG XU
-Modified: 2016.09.09, CNN for multichannel audio processing
---------------------------------------
-'''
+ 
 import sys
 sys.path.append('/user/HS103/yx0001/Downloads/Hat')
 import pickle
